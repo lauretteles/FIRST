@@ -1,2 +1,2 @@
 # FIRST
-mon premier projet sur hithub
+mon premier projet sur Github
